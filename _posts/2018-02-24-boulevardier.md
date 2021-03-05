@@ -1,15 +1,13 @@
 ---
 layout: post
-title: "Boulevardier: The Cocktail"
-timelinedate: 2013-09-01
-categories: ["Cocktails"]
-author: "Dawn Childress"
-lat: 48.869219
-lng: 2.3322078999999576
-headertitle: "Header title here"
-desc: "Harry's New York Bar, a well-known bar in Paris, is said to be the birthplace of classic cocktails such as the Bloody Mary, French 75, Side Car and the Boulevardier."
+title: "The Umayyad Mosque"
+categories: ["Islam"]
+lat: 33.512031125125354
+lng: 36.306695715343714
+headertitle: "Islam, Mosque"
+desc: "The Umayyad Mosque, also known as the Great Mosque of Damascus, is one of the oldest and largest mosques in the world."
 ---
-"The boulevardier cocktail is similar to the Negroni, replacing the Negroni's gin component with bourbon whiskey or rye whiskey. Some boulevardier recipes call for 1 1/2 parts rather than 1 part whiskey."
+جامع بني أمية الكبير
 
 "Drinks historian David Wondrich traces the easy-drinking combination of American whiskey, Campari and Italian vermouth back to Paris in 1927, where a wealthy young American expat named Erskine Gwynne launched a publication patterned after The New Yorker. His magazine, The Boulevardier, featured the first documented recipe for its namesake drink (although it didn’t specify the type of whiskey)."
 
