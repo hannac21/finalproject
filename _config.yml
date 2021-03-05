@@ -1,12 +1,12 @@
 
 
 # --SITE SETTINGS--
-title: "Flâneur: a Jekyll theme for maps and text"
-email: dchildress@library.ucla.edu
+title: "Older Than Time: Mapping Relgious Sites in Syria"
+email: hannac21@mail.wlu.edu
 description:
 baseurl: "/flaneur" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
-github_repo: https://github.com/kirschbombe/flaneur
+github_repo: https://github.com/hannac21/finalproject
 
 # --COPYRIGHT-- (Date generated from last build)
 copyright_name: Christian Hanna
@@ -23,8 +23,8 @@ base_font: >
   "Lato", sans-serif
 
 # --SOCIAL--
-twitter_username: kirschbombe
-github_username:  kirschbombe
+twitter_username: 
+github_username:  hannac21
 
 # --MAP SETTINGS--
 mapsettings:
