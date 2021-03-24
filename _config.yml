@@ -4,8 +4,8 @@
 title: "Older Than Time: Mapping Relgious Sites in Syria"
 email: hannac21@mail.wlu.edu
 description:
-baseurl: "/flaneur" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+baseurl: "/capstone" # the subpath of your site, e.g. /blog/
+url: "https://hannac21.wludci.info" # the base hostname & protocol for your site
 github_repo: https://github.com/hannac21/finalproject
 
 # --COPYRIGHT-- (Date generated from last build)

@@ -3,7 +3,7 @@ permalink: /events/
 layout: page
 menutitle: Timeline
 title: Timeline of Featured Events
-order: 4
+order: 3
 ---
 {% assign years = '' | split: "" %}
 {% assign groupedposts = site.posts | group_by_exp: "item", "item.timelinedate | date: '%Y' | slice: 0, 3" | sort: "name" %}

@@ -1,5 +1,5 @@
 ---
 layout: article-index
 title: Browse Articles
-order: 2
+order: 3
 ---

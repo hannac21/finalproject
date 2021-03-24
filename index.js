@@ -521,7 +521,7 @@ const mapview = Vue.component('mapview', {
         
         var marker = L.marker([post.lat, post.lng], {
           icon: mbox,
-        }).bindPopup(`<strong>${post.title}</strong><br>${post.desc ? post.desc : ''}`, {offset:new L.Point(0,-30)});
+        }).bindPopup(`<strong>${post.title}</strong><br><strong>${post.arabic}</strong><br><strong><span>Current Affiliation: </span></strong>${post.currentaff}<br><strong><span>Current Status: </span></strong>${post.status}<br>${post.desc ? post.desc : ''}`, {offset:new L.Point(0,-30)});
         marker.iconURL = `<span class="referenceIcons" style="position:relative">${mbox.options.html}</span>`;
         marker.legendIcon = iconurl;
         var vue = this;
@@ -608,7 +608,7 @@ const mapview = Vue.component('mapview', {
     },
     getMarkers: function() {
       if (this.markergrouping == 'grouped') { 
-        return new L.markerClusterGroup({showCoverageOnHover: false});
+        return new L.markerClusterGroup({showCoverageOnHover: false}, {spiderfyOnMaxZoom: true});
       } else if (this.markergrouping == 'single') {
         return new L.featureGroup();
       }
