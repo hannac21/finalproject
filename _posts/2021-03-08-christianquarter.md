@@ -9,7 +9,7 @@ arabic: "حلب (Aleppo)"
 currentaff: "Christianity"
 status: "Destroyed"
 desc: ""
-timeline date: ""
+timeline date: "1300 AD"
 ---
 Content
 

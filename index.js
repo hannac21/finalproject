@@ -608,7 +608,7 @@ const mapview = Vue.component('mapview', {
     },
     getMarkers: function() {
       if (this.markergrouping == 'grouped') { 
-        return new L.markerClusterGroup({showCoverageOnHover: false}, {spiderfyOnMaxZoom: true});
+        return new L.markerClusterGroup({showCoverageOnHover: false, spiderfyOnMaxZoom: true});
       } else if (this.markergrouping == 'single') {
         return new L.featureGroup();
       }

@@ -9,6 +9,7 @@ arabic: "جامِع الْأطروش"
 currentaff: "Islam"
 status: "In Use"
 desc: ""
+timeline date: "1398 AD"
 ---
 Content
 

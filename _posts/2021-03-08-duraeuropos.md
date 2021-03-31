@@ -9,6 +9,7 @@ arabic: "الصالحية"
 currentaff: "None"
 status: "Abandoned, Destroyed"
 desc: "Originally founded in 303 BC, Dura-Europos has been a part of many different empires throughout history. It was home to the oldest standing house-church in the world."
+timeline date: "303BC/1/1"
 ---
 Content
 

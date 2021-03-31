@@ -9,7 +9,7 @@ arabic: "كنيس حلب المركزي‎"
 currentaff: "None"
 status: "Abandoned"
 desc: ""
-timeline date: ""
+timeline date: "950 BC"
 ---
 Content
 

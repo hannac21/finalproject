@@ -1,10 +1,10 @@
 
 
 # --SITE SETTINGS--
-title: "Older Than Time: Mapping Relgious Sites in Syria"
+title: "Older Than Time: Mapping Religious Sites in Syria"
 email: hannac21@mail.wlu.edu
 description:
-baseurl: "/capstone" # the subpath of your site, e.g. /blog/
+baseurl: "/capstone/" # the subpath of your site, e.g. /blog/
 url: "https://hannac21.wludci.info" # the base hostname & protocol for your site
 github_repo: https://github.com/hannac21/finalproject
 
@@ -44,7 +44,7 @@ window-width: 550
 collections:
   posts:
     output: true
-    permalink: /article/:name
+    permalink: /article/:name/
   article-index:
     title: Article Index
     output: true
@@ -53,7 +53,7 @@ collections:
 permalink: /:categories/:title/
 
 # --MENU--
-menu-type: dropdown  # options: dropdown, circle
+menu-type: circle  # options: dropdown, circle
 
 # settings for circle menu
 menu-height: '200px'

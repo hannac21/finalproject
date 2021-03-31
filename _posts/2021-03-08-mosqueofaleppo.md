@@ -9,6 +9,7 @@ arabic: "جـامـع حـلـب الـكـبـيـر‎"
 currentaff: "Islam"
 status: "Partially Damaged"
 desc: ""
+timeline date: "715 AD"
 ---
 Content
 
