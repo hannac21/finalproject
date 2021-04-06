@@ -15,7 +15,7 @@ You can filter by religious affiliation by clicking the pin in the upper left-ha
 
 **Pin Colors by Religion:**
 
-**Christian:**   Blue Pin  
-**Various:**    Green Pin  
-**Islam:**      Red Pin  
-**Judaism:**    Black Pin
+**Christian:**   Black Pin  
+**Various:**    Blue Pin  
+**Islam:**      Green Pin  
+**Judaism:**    Red Pin
