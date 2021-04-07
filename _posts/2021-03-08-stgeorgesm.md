@@ -8,8 +8,8 @@ headertitle: "Christian, Monastery"
 arabic: "دير مار جرجس"
 currentaff: "Christianity"
 status: "In Use"
-desc: ""
-timeline date: "400 AD"
+desc: "Earliest Date: 5th Century"
+timeline date: ""
 ---
 ![St. George's Monastery](images/stgeorge.jpeg)
    {:.image}
@@ -34,4 +34,5 @@ timeline date: "400 AD"
 #### Works cited
 
 {:.bibliography}
-1. 
+
+Burns, Ross. The Monuments of Syria: an Historical Guide. New York University Press, 1992.

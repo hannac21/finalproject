@@ -7,9 +7,9 @@ lng: 37.157487
 headertitle: "Judiasm, Synagogue"
 arabic: "كنيس حلب المركزي‎"
 currentaff: "None"
-status: "Abandoned"
-desc: ""
-timeline date: "950 BC"
+status: "Abandoned, Damaged"
+desc: "Earliest Date: c.950 BCE"
+timeline date: ""
 ---
 ![Central Synagogue of Aleppo](images/synagogue.png)
    {:.image}
@@ -34,4 +34,7 @@ timeline date: "950 BC"
 #### Works cited
 
 {:.bibliography}
-1. 
+
+“Great Synagogue at Aleppo, Syria.” Diarna, Diarna, 2015, archive.diarna.org/site/detail/public/48/.
+
+“9th-Century Synagogue in Aleppo Sustains Minor Damage in Syria Fighting.” Jewish Telegraphic Agency, 10 Feb. 2016, www.jta.org/2016/02/10/israel/9th-century-synagogue-in-aleppo-sustains-minor-damage-in-syria-fighting.

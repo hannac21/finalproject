@@ -2,7 +2,7 @@
 layout: page
 title: Search
 type: search
-permalink: /search
+permalink: /search/
 order: 7
 ---
-Search for article.
+Search for articles

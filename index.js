@@ -428,7 +428,7 @@ const mapview = Vue.component('mapview', {
       return hash.replace(/^\/+|\/+$/g, '');
     },
     createMap: function(bounds=false) {
-      this.map = L.map('map' , {scrollWheelZoom: false}).setView([0, 0], 1);
+      this.map = L.map('map' , {scrollWheelZoom: false, zoomControl: false}).setView([0, 0], 1);
       L.tileLayer(this.mapdata['map-tileset'], {
         "attribution" : this.mapdata['map-credits'],
         "minZoom" : this.mapdata['minZoom'],
@@ -439,6 +439,10 @@ const mapview = Vue.component('mapview', {
       }).addTo(this.map);
       this.createMarkers();
       this.addMarkers();
+      
+      var zoomHome = L.Control.zoomHome({homeZoom:7, homeCoordinates: [35.01176118261954, 38.44376919290431]});
+      zoomHome.addTo(this.map);
+
       if (bounds){
         this.map.setView([bounds.lat, bounds.lng], bounds.zoom)
       } else {

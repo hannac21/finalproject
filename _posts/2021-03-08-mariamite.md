@@ -8,7 +8,7 @@ headertitle: "Christian, Cathedral"
 arabic: "الكنيسة المريمية‎"
 currentaff: "Christianity"
 status: "In Use"
-desc: ""
+desc: "Earliest Date: Roman Period"
 timeline date: "200 AD"
 ---
 ![Mariamite Cathedral](images/mariamite.jpeg)
@@ -31,4 +31,7 @@ timeline date: "200 AD"
 #### Works cited
 
 {:.bibliography}
-1. 
+
+Demeter, Daniel. “Damascus – Al-Mariyamiyeh Church.” Syria Photo Guide, 2014, syriaphotoguide.com/
+
+“Mariamite Cathedral: the Oldest Archaeological Church in Damascus.” Big News Network, www.bignewsnetwork.com/news/262662459/mariamite-cathedralthe-oldest-archaeological-church-in-damascus.
