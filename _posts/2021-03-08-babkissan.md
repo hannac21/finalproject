@@ -33,8 +33,5 @@ timeline date: ""
 
 #### Works cited
 
-{:.bibliography}
-
-Burns, Ross. The Monuments of Syria: an Historical Guide. New York University Press, 1992. 
-
-“The Seven Gates to Damascus.” NMSyria Blog, 31 Mar. 2014, nmsyria.wordpress.com/2014/03/31/the-seven-gates-to-damascus/.
+Burns, Ross. The Monuments of Syria: an Historical Guide. New York University Press, 1992.  
+“The Seven Gates to Damascus.” NMSyria Blog, 31 Mar. 2014, nmsyria. wordpress.com/ 2014/03/31/ the-seven-gates- to-damascus/.

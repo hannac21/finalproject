@@ -30,8 +30,5 @@ timeline date: "200 AD"
 
 #### Works cited
 
-{:.bibliography}
-
-Demeter, Daniel. “Damascus – Al-Mariyamiyeh Church.” Syria Photo Guide, 2014, syriaphotoguide.com/
-
-“Mariamite Cathedral: the Oldest Archaeological Church in Damascus.” Big News Network, www.bignewsnetwork.com/news/262662459/mariamite-cathedralthe-oldest-archaeological-church-in-damascus.
+Demeter, Daniel. “Damascus – Al-Mariyamiyeh Church.” Syria Photo Guide, 2014, syriaphotoguide.com/  
+“Mariamite Cathedral: the Oldest Archaeological Church in Damascus.” Big News Network, www.bignewsnetwork.com/ news/262662459/mariamite- cathedralthe-oldest-archaeological- church-in-damascus.

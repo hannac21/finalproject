@@ -33,11 +33,7 @@ timeline date: ""
 
 #### Works cited
 
-{:.bibliography}
-
-Baird, Jennifer A. Dura-Europos. Bloomsbury Academic, 2018.
-
-Burns, Ross. The Monuments of Syria: an Historical Guide. New York University Press, 1992.
-
+Baird, Jennifer A. Dura-Europos. Bloomsbury Academic, 2018.  
+Burns, Ross. The Monuments of Syria: an Historical Guide. New York University Press, 1992.  
 “Via Satellite, Tracking The Plunder Of Middle East Cultural History.” NPR, NPR, 10 Mar. 2015, www.npr.org/sections/parallels/2015/03/10/392077801/via-satellite-tracking-the-plunder-of-middle-east-cultural-history.
 

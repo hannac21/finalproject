@@ -33,9 +33,6 @@ timeline date: "1300 AD"
 
 #### Works cited
 
-{:.bibliography}
-
-Burns, Ross. The Monuments of Syria: an Historical Guide. New York University Press, 1992.
-
-Osberg, Spencer. “Aleppo: A Syrian Mosaic.” CNEWA, cnewa.org/magazine/aleppo-a-syrian-mosaic-33430/.
+Burns, Ross. The Monuments of Syria: an Historical Guide. New York University Press, 1992.  
+Osberg, Spencer. “Aleppo: A Syrian Mosaic.” CNEWA, cnewa.org/ magazine/aleppo- a-syrian-mosaic- 33430/.
 

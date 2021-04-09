@@ -33,6 +33,4 @@ timeline date: ""
 
 #### Works cited
 
-{:.bibliography}
-
 Burns, Ross. The Monuments of Syria: an Historical Guide. New York University Press, 1992.

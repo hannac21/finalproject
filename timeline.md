@@ -60,16 +60,33 @@ order: 3
 
 [Nabi Habeel Mosque](https://hannac21.wludci.info/capstone//#/article/2021-03-08-nabihabeel/)
 
+**1900 CE**
+
+The Central Synagogue of Aleppo is destroyed during attacks on local Jews in Aleppo.
+
 **2000 CE**
 
-
+Bashar al-Assad becomes the newly elected president of Syria following the death of his father, Hafez al-Assad.  
+A car bomb outside the Sayyidah Zaynab mosque kills 17 people.
 
 **2011 CE**
 
+Demonstrations against the Assad regime begin, and the Civil War breaks out shortly after.  
+The Old Christian Quarter experiences severe damage.  
+Ebla is subject to damage and looting.  
+The minaret at the Great Mosque of Aleppo is completely destroyed.  
+The Khalid ibn al-Walid Mosque is destroyed after serving as a arms and ammunition base for ISIS.  
+Mari is subject to mass destruction and looting after falling under ISIS control.  
+The Al-Otrush mosque was severely destoryed after many tunnel bombs were detonated in the area.
 
 
-**2015 CE**
+**2015 CE**  
 
+ISIS destroys a number of the temples and tombs at Palmyra.  
+The Mar Elian Monastery is completely destroyed by ISIS.  
+Dura Europos is destroyed and looted by ISIS.
+A large portion of the 40 Martyrs Cathedral is destroyed by ISIS.  
+The Great Mosque of Maarrat al Numan experiences severe structural damage after air raids.  
 
 
 **2021 CE**

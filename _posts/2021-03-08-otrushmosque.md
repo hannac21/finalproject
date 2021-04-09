@@ -32,8 +32,5 @@ timeline date: ""
 
 #### Works cited
 
-{:.bibliography}
-
-Burns, Ross. The Monuments of Syria: an Historical Guide. New York University Press, 1992.
-
-“ASOR Cultural Heritage Initiatives (CHI): Planning for Safeguarding Heritage Sites in Syria and Iraq.” ASOR Syrian Heritage, 5 May 2015, www.asor-syrianheritage.org/wp-content/uploads/2015/05/ASOR_CHI_Weekly_Report_39r.pdf#page=17.
+Burns, Ross. The Monuments of Syria: an Historical Guide. New York University Press, 1992.  
+“ASOR Cultural Heritage Initiatives (CHI): Planning for Safeguarding Heritage Sites in Syria and Iraq.” ASOR Syrian Heritage, 5 May 2015, www.asor-syrianheritage.org/ wp-content/uploads/2015/ 05/ASOR_CHI_ Weekly_Report_39r. pdf#page=17.

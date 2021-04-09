@@ -32,11 +32,7 @@ timeline date: ""
 
 #### Works cited
 
-{:.bibliography}
-
-“ASOR Cultural Heritage Initiatives (CHI): Planning for Safeguarding Heritage Sites in Syria and Iraq.” ASOR Syrian Heritage, 5 May 2015, www.asor-syrianheritage.org/wp-content/uploads/2015/05/ASOR_CHI_Weekly_Report_39r.pdf#page=17. 
-
-First Mass in 7 Years Held at Armenian Forty Martyrs Cathedral of Aleppo.” Public Radio of Armenia, 16 Dec. 2019, en.armradio.am/2019/12/16/first-mass-in-7-years-held-at-armenian-forty-martyrs-cathedral-of-aleppo/.
-
+“ASOR Cultural Heritage Initiatives (CHI): Planning for Safeguarding Heritage Sites in Syria and Iraq.” ASOR Syrian Heritage, 5 May 2015, www.asor- syrianheritage.org/wp-content/ uploads/2015/05/ASOR_ CHI_Weekly_Report_39r.pdf #page=17.  
+First Mass in 7 Years Held at Armenian Forty Martyrs Cathedral of Aleppo.” Public Radio of Armenia, 16 Dec. 2019, en.armradio.am/2019/12/16/first-mass-in-7-years-held-at-armenian-forty-martyrs-cathedral-of-aleppo/.  
 “Reconsecration of the Armenian Apostolic Cathedral of the Forty Martyrs in Aleppo.” Chretiens D'Orient, www.soschretiensdorient.fr/index.php/en/item/722-reconsecration-of-the-armenian-apostolic-cathedral-of-the-forty-martyrs-in-aleppo.
 

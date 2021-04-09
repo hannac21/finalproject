@@ -33,8 +33,5 @@ timeline date: ""
 
 #### Works cited
 
-{:.bibliography}
-
-“Great Synagogue at Aleppo, Syria.” Diarna, Diarna, 2015, archive.diarna.org/site/detail/public/48/.
-
-“9th-Century Synagogue in Aleppo Sustains Minor Damage in Syria Fighting.” Jewish Telegraphic Agency, 10 Feb. 2016, www.jta.org/2016/02/10/israel/9th-century-synagogue-in-aleppo-sustains-minor-damage-in-syria-fighting.
+“Great Synagogue at Aleppo, Syria.” Diarna, Diarna, 2015, archive.diarna.org/ site/detail/public/48/.  
+“9th-Century Synagogue in Aleppo Sustains Minor Damage in Syria Fighting.” Jewish Telegraphic Agency, 10 Feb. 2016, www.jta.org/2016/ 02/10/israel/ 9th-century-synagogue- in-aleppo-sustains-minor- damage-in-syria-fighting.

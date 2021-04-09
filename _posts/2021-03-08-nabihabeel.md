@@ -31,8 +31,5 @@ timeline date: ""
 
 #### Works cited
 
-{:.bibliography}
-
-Burns, Ross. The Monuments of Syria: an Historical Guide. New York University Press, 1992.
-
-“Nabi Habeel Mosque.” Homeland Syria, 2020, homelandsyria.com/index.php/nabi-habeel-mosque/.
+Burns, Ross. The Monuments of Syria: an Historical Guide. New York University Press, 1992.  
+“Nabi Habeel Mosque.” Homeland Syria, 2020, homelandsyria.com/ index.php/nabi-habeel -mosque/.
